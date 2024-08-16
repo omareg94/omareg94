@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://stackoverflow.com/users/3503851/omar">
+<a href="https://stackoverflow.com/users/3503851/omar" style="text-decoration: none;">
   <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Omar's Stack Overflow Profile" height="30" width="30">
 </a>
-<a href="https://linkedin.com/in/omar-a-043a821a9">
+
+<a href="https://linkedin.com/in/omar-a-043a821a9" style="text-decoration: none;">
   <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Omar's Linkedin Profile" height="30" width="30">
 </a>
