@@ -18,5 +18,5 @@ Here are some ideas to get you started:
   <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Omar's Stack Overflow Profile" height="30" width="30">
 </a>
 <a href="https://linkedin.com/in/omar-a-043a821a9">
-  <img src="https://www.linkedin.com/in/omar-a-043a821a9/" alt="Omar's Linkedin Profile" height="30" width="30">
+  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Omar's Linkedin Profile" height="30" width="30">
 </a>
